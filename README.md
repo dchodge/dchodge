@@ -13,8 +13,8 @@ I'm a researcher, based at Charité Universitätsmedizin - Berlin, focused on se
 
 ## Research Groups & Organizations
 
-- **[Seroanalytics](https://seroanalytics.org)** - Collaborative research group focused on serological data analysis and methods development
-- **[CCGH-IDD](https://cchg-idd.org)** - Centre for Global Health - Infectious Disease Dynamics
+- **[Seroanalytics](https://github.com/seroanalytics)** - Collaborative research group focused on serological data analysis and methods development
+- **[CCGH-IDD](https://github.com/ccgh-idd)** - Centre for Global Health - Infectious Disease Dynamics
 
 ## Academic Writing & Communications
 
@@ -26,13 +26,13 @@ n from causation in immune markers
 ## Interactive Tools & Widgets
 
 - **[mcmcPainter](https://mcmcpainter.davidhodgson.me/)** - Interactive widget for mcmcPainter - Paint pictures using Bayesian inference!
-- **[Mixture Model](https://rjmcmixture.davidhodgson.me/)** - An Reversible Jump algorithm for inferring mixture distributions where number of components is unknown
+- **[Mixture Model](https://rjmcmixture.davidhodgson.me/)** - A Reversible Jump algorithm for inferring mixture distributions where number of components is unknown
 - **[Serojump](https://seroanalytics.org/serojump-widget/)** - Interactive widget for serojump - Individual Antibody Trajectories with Bayesian Inference
 - **[Interactive Bayesian Epidemic Modelling](https://bayesvac.davidhodgson.me/)** - Interactive tools for Bayesian epidemic modeling and analysis.
 
 ## Connect
 
-- LinkedIn(https://www.linkedin.com/in/dchodgson/)
-- BlueSky[https://seroanalytics.org](https://bsky.app/profile/dchodge.bsky.social)
+- [LinkedIn](https://www.linkedin.com/in/dchodgson/)
+- [BlueSky](https://bsky.app/profile/dchodge.bsky.social)
 
 ---
