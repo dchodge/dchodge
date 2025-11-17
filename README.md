@@ -2,14 +2,14 @@
 
 ## About Me
 
-I'm a researcher, based at Charité Universitätsmedizin - Berlin, focused on serological modelling, immune dynamics, and vaccine evaluation. My work combines statistical inference, Bayesian methods, and epidemiological modeling to understand how populations develop and maintain immunity to infectious diseases.
+I'm a researcher, based at Charité Universitätsmedizin - Berlin, focused on serological modelling, immune dynamics, and vaccine evaluation.
 
 ## Research Interests
 
-- **Serological Modelling**: Using antibody data to infer infection timing, transmission dynamics, and population immunity
-- **Immune Dynamics & Antibody Kinetics**: Understanding how antibody levels change over time and what they tell us about protection
-- **Vaccine Correlates of Protection**: Identifying immune markers that predict vaccine efficacy and can accelerate vaccine development
-- **Bayesian Inference**: Applying probabilistic frameworks to extract maximum information from serological data
+- **Serological Modelling**: Using antibody data to infer infection timing, transmission dynamics, and population immunity.
+- **Immune Dynamics & Antibody Kinetics**: Understanding how antibody levels change over time and what they tell us about protection.
+- **Vaccine Correlates of Protection**: Identifying immune markers that predict vaccine efficacy and can accelerate vaccine development.
+- **Bayesian Inference**: Applying probabilistic frameworks to extract information from data.
 
 ## Research Groups & Organizations
 
@@ -18,19 +18,21 @@ I'm a researcher, based at Charité Universitätsmedizin - Berlin, focused on se
 
 ## Academic Writing & Communications
 
-- **[Main Website](http://localhost:1313)** - Academic homepage and research portfolio
-- **[Blog Posts](http://localhost:1313/post/)** - Technical writing on serological methods and vaccine science
-- **[Talks & Presentations](http://localhost:1313/talk/)** - Conference presentations and seminars
+- **[Main Website](http://davidhodgson.me)** - Academic homepage and research portfolio
+- **[Blog Posts](http:///davidhodgson.me/post/)** - Technical writing on research interested
+- **[Talks & Presentations](http:///davidhodgson.me/talk/)** - Conference presentations and seminars
 n from causation in immune markers
 
 ## Interactive Tools & Widgets
 
-🎨 **[Front-End Projects](http://localhost:1313/widgets/)** - Interactive visualizations and web applications for exploring epidemiological concepts
+- **[mcmcPainter](https://mcmcpainter.davidhodgson.me/)** - Interactive widget for mcmcPainter - Paint pictures using Bayesian inference!
+- **[Mixture Model](https://rjmcmixture.davidhodgson.me/)** - An Reversible Jump algorithm for inferring mixture distributions where number of components is unknown
+- **[Serojump](https://seroanalytics.org/serojump-widget/)** - Interactive widget for serojump - Individual Antibody Trajectories with Bayesian Inference
+- **[Interactive Bayesian Epidemic Modelling](https://bayesvac.davidhodgson.me/)** - Interactive tools for Bayesian epidemic modeling and analysis.
 
 ## Connect
 
-- **Website**: [davidhodgson.org](http://localhost:1313)
-- **Seroanalytics**: [seroanalytics.org](https://seroanalytics.org)
-- **CCHG-IDD**: [cchg-idd.org](https://cchg-idd.org)
+- LinkedIn(https://www.linkedin.com/in/dchodgson/)
+- BlueSky[https://seroanalytics.org](https://bsky.app/profile/dchodge.bsky.social)
 
 ---
